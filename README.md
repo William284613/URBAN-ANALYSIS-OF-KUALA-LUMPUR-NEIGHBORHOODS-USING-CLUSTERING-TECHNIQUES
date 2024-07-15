@@ -7,8 +7,3 @@ The study highlights Kuala Lumpur's dynamic appeal.
 It ac-commodates a range of lifestyles and preferences by showcasing the city's diverse urban landscape, which includes residential communities, cultural hubs, and business-centric districts. 
 This method helps prospective movers make decisions more easily and adds to the understanding of urban planning to improve the quality of life for residents and promote sustainable devel-opment.
 
-METHODOLOGY
-
-
-OUTCOME
-
