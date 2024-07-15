@@ -7,3 +7,11 @@ The study highlights Kuala Lumpur's dynamic appeal.
 It ac-commodates a range of lifestyles and preferences by showcasing the city's diverse urban landscape, which includes residential communities, cultural hubs, and business-centric districts. 
 This method helps prospective movers make decisions more easily and adds to the understanding of urban planning to improve the quality of life for residents and promote sustainable devel-opment.
 
+METHODOLOGY
+
+![image](https://github.com/user-attachments/assets/7712db7f-eca7-4a0a-88f7-89332d538e53)
+
+
+Map Visualization of Neighborhood Coordinate Longitude and Latitude![image](https://github.com/user-attachments/assets/78391e6f-8b6b-4b9d-89b5-455f89a21b99)
+
+![image](https://github.com/user-attachments/assets/baae8935-fe51-467b-af96-9e26a620928b)
