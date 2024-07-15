@@ -9,6 +9,7 @@ This method helps prospective movers make decisions more easily and adds to the 
 
 
 METHODOLOGY
+
 ![image](https://github.com/user-attachments/assets/b340d31e-5673-4cf3-9288-b8f12b56ac6d)
 
 
